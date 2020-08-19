@@ -1,3 +1,4 @@
+// File not used. It's just an example of the same flow with the minimal use of typeScript
 import { Router, Request, Response, NextFunction } from 'express';
 
 interface RequestWithBody extends Request {
